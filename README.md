@@ -1,4 +1,3 @@
-# Stay in summer
 # 写在夏至之前
 
 
